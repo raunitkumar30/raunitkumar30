@@ -49,13 +49,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raunitkumar30&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raunitkumar30&hide_border=true" alt="GitHub streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=raunitkumar30&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub stats" height="165">
+  <img src="https://streak-stats.demolab.com/?user=raunitkumar30&hide_border=true" alt="GitHub streak" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunitkumar30&layout=compact&hide_border=true" alt="Top languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunitkumar30&layout=compact&hide_border=true&cache_seconds=1800" alt="Top languages" height="165">
 </p>
+
+> Note: these images are served by a free shared community instance. If a card shows broken, it's usually rate-limiting on their end — it typically comes back within a few minutes to an hour. If it stays broken, deploy your own free copy of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) to Vercel and swap the domain in the URLs above.
 
 ---
 
