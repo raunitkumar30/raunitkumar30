@@ -1,263 +1,181 @@
-<h1 align="center">Hi 👋, I'm Raunit Kumar</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Third-Year B.Tech (Information Technology) Student | Full Stack Developer | AI Enthusiast
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Raunit%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
 
-<p align="center">
-  <a href="https://github.com/raunitkumar30">
-    <img src="https://img.shields.io/github/followers/raunitkumar30?label=Followers&style=social">
-  </a>
-  <a href="https://github.com/raunitkumar30">
-    <img src="https://img.shields.io/github/stars/raunitkumar30?affiliations=OWNER&style=social">
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Third-Year+B.Tech+(IT)+Student;Full+Stack+Developer;AI%2FML+Enthusiast;Building+real-world+software+%F0%9F%9A%80&font=Fira+Code&center=true&width=550&height=50&color=1BFFFF&vCenter=true&size=22" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-# 💫 About Me
+<a href="https://github.com/raunitkumar30">
+  <img src="https://img.shields.io/github/followers/raunitkumar30?label=Followers&style=for-the-badge&color=2E3192&labelColor=black">
+</a>
+<a href="https://github.com/raunitkumar30?tab=repositories">
+  <img src="https://img.shields.io/github/stars/raunitkumar30?affiliations=OWNER&style=for-the-badge&color=1BFFFF&labelColor=black&label=Stars">
+</a>
 
-🎓 I'm a **Third-Year B.Tech Information Technology student** passionate about building impactful software that solves real-world problems.
+</div>
 
-💡 I enjoy creating products using modern web technologies and exploring Artificial Intelligence to build practical applications.
+<br/>
 
-🌱 Currently learning
+## 💫 About Me
 
-- Full Stack Development (MERN)
-- Data Structures & Algorithms (C++)
-- Machine Learning
-- System Design
-- Backend Development
+```yaml
+🎓 Status:   Third-Year B.Tech (Information Technology) Student
+💡 Focus:    Building impactful software that solves real-world problems
+🤖 Exploring: Practical, applied Artificial Intelligence
+```
 
-🎯 My Goals
+- 🌱 **Currently learning:** Full Stack Development (MERN), DSA (C++), Machine Learning, System Design, Backend Development
+- 🎯 **Goals:** Land a top SWE internship · Become a sharp problem solver · Ship scalable products · Contribute to Open Source · Build my own tech company
+- ⚡ **Belief:** Consistency beats motivation.
 
-- Crack top software engineering internships
-- Become an excellent problem solver
-- Build scalable products
-- Contribute to Open Source
-- Start my own technology company
+<br/>
 
----
+## 🚀 Tech Stack
 
-# 🚀 Tech Stack
+<div align="center">
 
-### Programming Languages
-
-<p>
+**Languages**
+<br/>
 <img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
-</p>
 
-### Frontend
-
-<p>
+**Frontend**
+<br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
-</p>
 
-### Backend
-
-<p>
+**Backend**
+<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
 
-### Tools & Technologies
-
-<p>
+**Tools**
+<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" />
-</p>
 
----
+</div>
 
-# 📌 Featured Projects
+<br/>
 
-## 🚑 GigShield
+## 📌 Featured Projects
 
-### AI-Powered Parametric Insurance Platform
+<table>
+<tr>
+<td width="50%" valign="top">
 
-An intelligent insurance platform for gig workers that automatically compensates delivery partners during bad weather using weather APIs and predefined insurance rules.
+### 🚑 [GigShield](https://github.com/raunitkumar30/Gigshield)
+**AI-Powered Parametric Insurance Platform**
 
-**Tech Used**
+Automatically compensates gig delivery partners during bad weather using live weather APIs and predefined insurance rules.
 
-- React
-- Node.js
-- Express
-- MongoDB
-- Weather API
-- JavaScript
+`React` `Node.js` `Express` `MongoDB` `Weather API`
 
-🔗 Repository
+</td>
+<td width="50%" valign="top">
 
-https://github.com/raunitkumar30/Gigshield
+### 🧠 TraitMap
+**Big Five Personality Assessment Platform**
 
----
+Adaptive personality quiz with a backend scoring engine, result visualization, and a user dashboard.
 
-## 🧠 TraitMap
+`React` `Node.js` `MongoDB`
 
-A personality assessment platform based on the Big Five Personality Traits.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Features
+### 📊 [Productivity Dashboard](https://github.com/raunitkumar30/Productivity-Dashboard)
+**All-in-one productivity app**
 
-- Adaptive personality quiz
-- Beautiful UI
-- Backend scoring engine
-- Result visualization
-- User dashboard
+Pomodoro timer, task management, daily goals, weather widget, quotes API, calendar, and clock — all in one dashboard.
 
-Tech
+`HTML` `CSS` `JavaScript`
 
-- React
-- Node.js
-- MongoDB
+</td>
+<td width="50%" valign="top">
 
----
+### 🤖 [Cyberbullying Detection](https://github.com/raunitkumar30/Cyberbullying-Detection-using-Machine-Learning)
+**ML-based text classifier**
 
-## 📊 Productivity Dashboard
+Detects cyberbullying from textual data using NLP and machine learning techniques.
 
-A productivity application featuring
+`Python` `NLP` `Machine Learning`
 
-- Pomodoro Timer
-- Task Management
-- Daily Goals
-- Weather Widget
-- Quotes API
-- Calendar
-- Clock
+</td>
+</tr>
+</table>
 
-Tech
+<br/>
 
-- HTML
-- CSS
-- JavaScript
-
-Repository
-
-https://github.com/raunitkumar30/Productivity-Dashboard
-
----
-
-## 🤖 Cyberbullying Detection
-
-Machine Learning project that detects cyberbullying from textual data.
-
-Tech
-
-- Python
-- NLP
-- Machine Learning
-
-Repository
-
-https://github.com/raunitkumar30/Cyberbullying-Detection-using-Machine-Learning
-
----
-
-# 📚 Currently Learning
-
-- Advanced React
-- Express.js
-- MongoDB
-- Authentication
-- System Design
-- Machine Learning
-- Computer Networks
-- Operating Systems
-
----
-
-# 💻 Coding Profiles
-
-<p>
-<a href="https://github.com/raunitkumar30">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-</p>
-
----
-
-# 📈 GitHub Statistics
+## 📈 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=raunitkumar30&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=raunitkumar30&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raunitkumar30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=raunitkumar30&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunitkumar30&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunitkumar30&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-# 📊 GitHub Activity Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raunitkumar30&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raunitkumar30&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
+<br/>
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=raunitkumar30&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=raunitkumar30&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
----
+<br/>
 
-# 🌟 Fun Facts
-
-- 💻 I love building real-world software.
-- 📚 I enjoy learning new technologies every week.
-- ⚡ I believe consistency beats motivation.
-- 🚀 Dreaming of building a global tech startup.
-
----
-
-# 📫 Connect With Me
-
-<p>
-
-<a href="https://github.com/raunitkumar30">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<!-- Add these when available -->
-
-<!--
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox">
-</a>
--->
-
-</p>
-
----
-
-<h3 align="center">
-
-⭐ Thanks for visiting my profile!
-
-If you like my projects, consider giving them a ⭐
-
-</h3>
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=raunitkumar30&label=Profile%20Views&color=0e75b6&style=flat"/>
-
+  <img src="https://raw.githubusercontent.com/raunitkumar30/raunitkumar30/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
+> To make this snake animate, add the workflow file below to `.github/workflows/snake.yml` in this repo — GitHub Actions will generate it automatically every day.
+
+<br/>
+
+## 🌟 Fun Facts
+
+- 💻 I love building real-world software
+- 📚 I learn something new every week
+- ⚡ Consistency beats motivation
+- 🚀 Dreaming of building a global tech startup
+
+<br/>
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/raunitkumar30">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <!-- Replace YOUR_LINK / YOUR_EMAIL / YOUR_PORTFOLIO below with your real links, then delete this comment -->
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://YOUR_PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white">
+  </a>
+</p>
+
+<div align="center">
+
+⭐ **Thanks for visiting my profile!** If you like my projects, consider giving them a star.
+
+<img src="https://komarev.com/ghpvc/?username=raunitkumar30&label=Profile%20Views&color=1BFFFF&style=for-the-badge"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=100&section=footer" width="100%"/>
+
+</div>
