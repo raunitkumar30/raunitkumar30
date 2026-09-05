@@ -111,12 +111,12 @@ A 5-tier governance productivity system that aligns national directives down to 
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raunitkumar30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=raunitkumar30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=raunitkumar30&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunitkumar30&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=raunitkumar30&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
