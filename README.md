@@ -95,12 +95,12 @@ Pomodoro timer, task management, daily goals, weather widget, quotes API, calend
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [Cyberbullying Detection](https://github.com/raunitkumar30/Cyberbullying-Detection-using-Machine-Learning)
-**ML-based text classifier**
+### 🏛️ [GovernScale](https://github.com/raunitkumar30/GovernScale)
+**E-Office Productivity Alignment OS — Built for Smart India Hackathon**
 
-Detects cyberbullying from textual data using NLP and machine learning techniques.
+A 5-tier governance productivity system that aligns national directives down to frontline execution, using a transparent 4-pillar mathematical scoring engine (Volume, Timeliness, Quality, Complexity) — zero black-box AI, fully client-side with reactive cross-tab sync.
 
-`Python` `NLP` `Machine Learning`
+`React 19` `Vite` `React Router` `Tailwind CSS` `Lucide React`
 
 </td>
 </tr>
