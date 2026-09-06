@@ -139,8 +139,6 @@ A 5-tier governance productivity system that aligns national directives down to 
   <img src="https://raw.githubusercontent.com/raunitkumar30/raunitkumar30/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-> To make this snake animate, add the workflow file below to `.github/workflows/snake.yml` in this repo — GitHub Actions will generate it automatically every day.
-
 <br/>
 
 ## 🌟 Fun Facts
